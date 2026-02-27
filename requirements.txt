@@ -1,7 +1,0 @@
-streamlit
-pandas
-beautifulsoup4
-requests
-plotly
-matplotlib
-setuptools
